@@ -1,7 +1,8 @@
 #include<stdio.h>
- int main(){
+int main(){
+	#addition of two no
 	int a = 10, b = 20;
 	int ans = a + b;
-	printf("%d\n",ans);
+	printf("Addition : %d\n",ans);
 	return 0;
 }
